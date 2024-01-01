@@ -4,7 +4,7 @@
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
-!(htt![Screenshot 2023-11-21 154241](https://github.com/tharunkumaran2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151625188/d1b2deb2-c419-482e-85de-115ebbc4a497)
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
