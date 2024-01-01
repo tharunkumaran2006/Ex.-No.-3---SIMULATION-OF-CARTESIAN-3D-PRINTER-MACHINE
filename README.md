@@ -47,6 +47,8 @@
 ###   2.	Move the y-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the y-axis assembly.
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
+##INPUT
+
 ## OUTPUT
 ![Screenshot 2024-01-01 231907](https://github.com/tharunkumaran2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151625188/a8fa558f-4b0d-40ec-aaa8-b72d4dc211ca)
 
@@ -57,8 +59,6 @@
 ![WhatsApp Image 2023-11-21 at 15 05 57_9ab496fb](https://github.com/tharunkumaran2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151625188/02e9c585-abb1-43ca-8479-6c34ad0b7258)
 
 ![WhatsApp Image 2023-11-21 at 15 05 57_a8af3ee1](https://github.com/tharunkumaran2006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/151625188/14db6854-ca67-480e-9166-aa609ae12850)
-
-## Output:
 
 ### Name: Tharun V K
 ### Register Number:23003686
